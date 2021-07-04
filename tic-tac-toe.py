@@ -187,6 +187,6 @@ print(' 7 | 8 | 9')
 print(' 4 | 5 | 6')
 print(' 1 | 2 | 3')
 print('Press any number to choose box')
-print('And try to get three in a row. EASY!!')
+print('And try to get three in a row. SO EASY!!')
 
 tic_tac_toe()
